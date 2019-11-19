@@ -1,8 +1,8 @@
 # CMake Temp Files
 CMakeCache.txt
 CMakeFiles
-
-test/*
+.gitmodules
+lib/
 .idea/*
 .DS_STORE
 Makefile
