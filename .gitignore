@@ -1,3 +1,12 @@
-CMakeLists.txt
-CMakeCache.txt 
-CMakeFiles/
+# CMake Temp Files
+CMakeCache.txt
+CMakeFiles
+
+test/*
+.idea/*
+.DS_STORE
+Makefile
+MakeFile
+*.cbp
+cmake-*
+cmake_*
