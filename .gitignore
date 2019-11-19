@@ -1,4 +1,6 @@
 CMakeCache.txt
+lib/
+.CMakeLists.txt.swp
 CMakeFiles/
 cmake_install.cmake
 Makefile
