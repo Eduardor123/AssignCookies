@@ -33,9 +33,9 @@ public:
             if(g.at(i) > s.at(j))
                 j++; //go to next cookie
             else{
-                j++; //
+                j++; //if satifies condition increment both values
                 i++;
-                contentChildren++;
+                contentChildren++; //update our content children
             }
         }
         return contentChildren;
